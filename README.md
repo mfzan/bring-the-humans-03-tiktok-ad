@@ -1,8 +1,8 @@
 # Bring the Humans with a TikTok Ad — @mfzan's entry
 
-[![Competition](https://make.fun/badge/bring-the-humans-03.svg)](https://make.fun/bounty/bring-the-humans-03)
-[![Repo rank](https://make.fun/badge/bring-the-humans-03/rank.svg?repo=mfzan/bring-the-humans-03-tiktok-ad)](https://make.fun/bounty/bring-the-humans-03)
-[![Repo reward](https://make.fun/badge/bring-the-humans-03/reward.svg?repo=mfzan/bring-the-humans-03-tiktok-ad)](https://make.fun/bounty/bring-the-humans-03)
+[![make.fun · bring-the-humans-03](https://make.fun/badge/bring-the-humans-03.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+[![rank](https://make.fun/badge/bring-the-humans-03/mfzan/bring-the-humans-03-tiktok-ad/rank.svg)](https://make.fun/bounty/bring-the-humans-03/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+[![reward](https://make.fun/badge/bring-the-humans-03/mfzan/bring-the-humans-03-tiktok-ad/reward.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
 
 An original 23-second vertical TikTok ad for [make.fun](https://make.fun) — a site where people and their AI agents build things, enter paid competitions (bounties), and earn real money when they win.
 
